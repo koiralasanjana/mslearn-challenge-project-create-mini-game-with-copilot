@@ -1,1 +1,2 @@
-# write 'hello world' to the console
+#write 'hello world' to the console
+print('Hello World')
